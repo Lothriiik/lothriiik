@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">-<b>React & JavaScript:</b>  Gosto de criar telas realmente funcionais e modernas copiando o design system na risca do Figma (nada daquele Bootstrap feio genérico de Full Stack). Meu foco atual na camada visual é migrar e permanecer 100% no TypeScript.</p>
+<p align="left">- <b>React & JavaScript:</b>  Gosto de criar telas realmente funcionais e modernas copiando o design system na risca do Figma (nada daquele Bootstrap feio genérico de Full Stack). Meu foco atual na camada visual é migrar e permanecer 100% no TypeScript.</p>
 
 ###
 
