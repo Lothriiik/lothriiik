@@ -1,4 +1,4 @@
-<h3 align="left">Oioi, meu nome é Uanderson</h3>
+<h2 align="left">Oioi, meu nome é Uanderson</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- Golang: Criação de APIs, arquitetura modular e tratamento de concorrência.<br>- PostgreSQL: Modelagem relacional tradicional.<br>- Redis: Gerenciamento de filas, cache e distributed locks para concorrência de acessos.<br>- Docker: Contêinerização de ambientes.</p>
+<p align="left">- <b>Golang:</b> Criação de APIs, arquitetura modular e tratamento de concorrência.<br>- <b>PostgreSQL:</b>  Modelagem relacional tradicional.<br>- <b>Redis:</b>  Gerenciamento de filas, cache e distributed locks para concorrência de acessos.<br>- <b>Docker:</b>  Contêinerização de ambientes.</p>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">-React & JavaScript: Gosto de criar telas realmente funcionais e modernas copiando o design system na risca do Figma (nada daquele Bootstrap feio genérico de Full Stack). Meu foco atual na camada visual é migrar e permanecer 100% no TypeScript.</p>
+<p align="left">-<b>React & JavaScript:</b>  Gosto de criar telas realmente funcionais e modernas copiando o design system na risca do Figma (nada daquele Bootstrap feio genérico de Full Stack). Meu foco atual na camada visual é migrar e permanecer 100% no TypeScript.</p>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<p align="left">- Python: Scripts isolados e automação.</p>
+<p align="left">- <b>Python:</b>  Scripts isolados e automação.</p>
 
 ###
 
