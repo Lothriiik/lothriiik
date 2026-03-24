@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Full-Stack Developer | Golang & JavaScript <br>Estudante de Ciência da Computação na UFAL.</p>
+<p align="left">Full-Stack Developer | Golang Backend & JavaScript Fronend <br>Estudante de Ciência da Computação na UFAL.</p>
 
 ###
 
